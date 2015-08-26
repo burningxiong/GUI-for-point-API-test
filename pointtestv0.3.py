@@ -51,7 +51,7 @@ class MyFrame():
 	}
 
 	# 初始化所有的字段
-	str_appid = 'f2526f5f41b306aea0f726a57b739940'
+	str_appid = ''
 	str_user_id = ''
 	str_sign = ''
 	str_trade_no = ''
@@ -69,7 +69,7 @@ class MyFrame():
 	str_user_level = ''
 	str_user_ponits = ''
 	str_add_points = ''
-	str_secretkey = '672140bd62004924b8f16255be3cf17b'
+	str_secretkey = ''
 	str_host_ip = '192.168.0.125'
 	str_host_port = '8080'
 
